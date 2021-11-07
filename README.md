@@ -7,23 +7,21 @@ This congressional election audit seeks to count all of the votes in order to co
 ## Election-Audit Results
 As illustrated in the text file pasted below:
 ##### * A total of 369,711 votes were cast in this congressional election.
-
 ##### * Election results, listed by location:
 
-#####   1. Denver County cast 82.8% or 306,055 votes.
-#####   2. Jefferson County cast 10.5% or 38,855 votes.
-#####   3. Arapahoe County cast 6.7% or 24,801 votes.
+           1. Denver County cast 82.8% or 306,055 votes.
+           2. Jefferson County cast 10.5% or 38,855 votes.
+           3. Arapahoe County cast 6.7% or 24,801 votes.
 
 ##### * The largest number of votes were cast in Denver.
-
 ##### * Election results, by candidate:
-#####   1. Diana DeGette received 73.8% or 272,892 votes.
-#####   2. Charles Casper Stockham received 23.0% or 85,213 votes.
-#####   3. Raymon Anthony Doane received 3.1% or 11,606 votes.
+           1. Diana DeGette received 73.8% or 272,892 votes.
+           2. Charles Casper Stockham received 23.0% or 85,213 votes.
+           3. Raymon Anthony Doane received 3.1% or 11,606 votes.
 
 ##### * Outcome: Diana DeGette won the election with nearly 74% of the vote (272,892 votes)
 
-![Results of the Congressional Election Audit](Resources/ElectionResults.png) 
+            ![Results of the Congressional Election Audit](Resources/ElectionResults.png) 
 
 ## Election-Audit Summary
 
